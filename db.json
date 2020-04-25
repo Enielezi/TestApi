@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "players1":
+  "players":
   [
         { "id": 1, "name": "Eni Elezi", "role": "Goalkeeper", "postcode": "KT6 6DY", "country": "UK", "lat": 51.389329, "lon":-0.301448 },
         { "id": 2, "name": "Enida Shqevi", "role": "Forward", "postcode": "KT6 6DY", "country": "UK", "lat": 51.389329, "lon":-0.301448 },
